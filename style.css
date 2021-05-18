@@ -5,6 +5,9 @@ body {
   position: fixed;
   top: 0;
 }
-#titulo {
-
+/* requisito 13 */
+#minha_foto {
+  margin:auto;
+  padding: 0px;
+  border-radius:100%;
 }
