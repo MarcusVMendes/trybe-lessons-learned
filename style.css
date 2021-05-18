@@ -7,13 +7,29 @@ body {
 }
 /* requisito 13 */
 #minha_foto {
+  border-radius:100%;
   margin:auto;
   padding: 0px;
-  border-radius:100%;
 }
 p {
   font-size: 12px;
   color: black;
   line-height: 20px;
   font-family: sans-serif;
+}
+.lado-esquerdo {
+  background-color: red;
+  display: inline-block;
+  position: absolute;
+  width: 25%;
+}
+.lado-direito {
+  background-color: yellow;
+  display: inline-block;
+  position: absolute;
+  width: 25%;
+}
+.coluna {
+  background-color: blue;
+  position: absolute;
 }
