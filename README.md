@@ -36,7 +36,7 @@ git@github.com:MarcusVMendes/trybe-lessons-learned.git
 <div style="text-align: left">3. Acesse o diretório do projeto e depois utilize o comando <b>npm install</b> para instalar todas as dependências necessárias:<div><br>
 
 ```javascript
-cd lessons-learned
+cd trybe-lessons-learned
 npm install
 ```
 <br>
