@@ -15,29 +15,32 @@ A proposta do projeto é desenvolver uma landing page relatando as habilidades a
 
 # Instalação do projeto localmente
 
-Após cada um dos passos, haverá um exemplo do comando a ser digitado para fazer o que está sendo pedido, caso tenha dificuldades e o exemplo não seja suficiente, não hesite em me contatar em _marcus.mendes89@gmail.com_.<br><br>
+Após cada um dos passos, haverá um exemplo do comando a ser digitado para fazer o que está sendo pedido, caso tenha dificuldades e o exemplo não seja suficiente, não hesite em me contatar em _marcus.mendes89@gmail.com_.
+<br>
+<br>
 
-1. Abra o terminal e crie um diretório no local de sua preferência com o comando **mkdir**:
+<div style="text-align: left">1. Abra o terminal e crie um diretório no local de sua preferência com o comando <b>mkdir</b>:</div><br>
 
 ```javascript
 mkdir projetos
 ```
 <br>
-2. Entre no diretório que acabou de criar e depois clone o projeto:
+<div style="text-align: left">2. Entre no diretório que acabou de criar e depois clone o projeto:<div><br>
+
 
 ```javascript
 cd projetos
 git@github.com:MarcusVMendes/trybe-lessons-learned.git
 ```
 <br>
-3. Acesse o diretório do projeto e depois utilize o comando **npm install** para instalar todas as dependências necessárias:
+<div style="text-align: left">3. Acesse o diretório do projeto e depois utilize o comando <b>npm install</b> para instalar todas as dependências necessárias:<div><br>
 
 ```javascript
-cd lessons-learned
+cd trybe-lessons-learned
 npm install
 ```
 <br>
-4. Recomenda-se o uso da extensão ***Live Server*** para executar o projeto no browser. 
+    4. Recomenda-se o uso da extensão <b>Live Server</b> para executar o projeto no browser. 
 <br><br>
 
 
