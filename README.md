@@ -30,7 +30,7 @@ mkdir projetos
 
 ```javascript
 cd projetos
-git@github.com:MarcusVMendes/trybe-lessons-learned.git
+git clone git@github.com:MarcusVMendes/trybe-lessons-learned.git
 ```
 <br>
 <div style="text-align: left">3. Acesse o diretório do projeto e depois utilize o comando <b>npm install</b> para instalar todas as dependências necessárias:<div><br>
